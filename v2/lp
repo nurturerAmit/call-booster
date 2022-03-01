@@ -20,10 +20,10 @@
           "max_withdraw": 3701072.8146712873,
           "type" : 1,
           "swap_rate" : 0.0001,
-          "balance_earned" : 0,
+          "balance_earned" : 12321313121,
           "lockupTimestamp" : 1646897495,
-          "totalBalance" : 0, 
-          "totalSupply": 0,
+          "totalBalance" : 123213131121, 
+          "totalSupply": 131231312312123,
           "shareOf" : 0,
           "contract": [
             "0xB895d60527906e068e5f53DAC3E7CE10a30b62cE"
@@ -1002,8 +1002,8 @@
             "balance_earned" : 0,
             "lockupTimestamp" : 1646897495,
             "totalBalance" : 0, 
-            "totalSupply": 0,
-            "shareOf" : 0,
+            "totalSupply": 23213131312,
+            "shareOf" : 13112311123123,
             "contract": [
               "0xeAA8784B40348b610F7384df928AFEDaaa8F5Fe4"
             ],
