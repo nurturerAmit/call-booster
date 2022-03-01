@@ -1,7 +1,7 @@
 [
     {
           "token": {
-              "name":"BNB",
+              "name":"BTC",
               "img": "https://app.buffer.finance/images/logo.svg",
               "price":3432432
           },
