@@ -1,11 +1,11 @@
 {
-        "total_fee": fees[0] * 1.05,
-        "premium": fees[2] + fees[3],
-        "settlement_fee": fees[1],
-        "strike": fixed_strike,
-        "expiry": fixed_expiry,
-        "max_size": calculate_max_size(fees[2], fees[3], environment, asset),
-        "break_even": calculate_break_even_price(fixed_strike, amount, total_fee),
+        "total_fee": 1231231231,
+        "premium": 123213123123,
+        "settlement_fee": 12321321321,
+        "strike": 23123,
+        "expiry": 23123,
+        "max_size": 23123,
+        "break_even": 23123,
         "token_balance": 1,
-        "token_price": 1,
+        "token_price": 1
  }
