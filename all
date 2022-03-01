@@ -1,0 +1,14 @@
+[
+    {
+          "token": {
+              "name":"BNB",
+              "img": "https://app.buffer.finance/images/logo.svg",
+              "price":3432432
+          },
+          "strike":23213213,
+          "max_size": 2667482447382412300,
+          "break_even": 5234324234,
+          "expiry": 234123,
+          "lp" : "call_booster_contract.pool"
+      }
+  ]
