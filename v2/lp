@@ -998,7 +998,7 @@
             "staked_balance_of": 0,
             "max_withdraw": 0,
             "type" : 2,
-            "swap_rate" : 0.0001,
+            "swap_rate" : 13,
             "balance_earned" : 0,
             "lockupTimestamp" : 1646897495,
             "totalBalance" : 0, 
