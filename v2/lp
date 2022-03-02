@@ -2,6 +2,7 @@
     "data": [
         {
           "abbrev": "rBFR",
+          "asset":"BNB",
           "staking_apr": "143.61%",
           "pool_apr": "0%",
           "apr": "143.61%",
@@ -983,11 +984,12 @@
             "abbrev": "rBFR",
             "staking_apr": "143.61%",
             "pool_apr": "0%",
+            "asset":"BTC",
             "apr": "143.61%",
             "img": "https://res.cloudinary.com/dgdjabqwr/image/upload/v1629971863/Buffer/bnb_bg_f1vmze.svg",
             "lockedValue1": 0,
             "lockedValue2": 0,
-            "name": "Buffer BNB LP Token",
+            "name": "Buffer BTC LP Token",
             "utilization": "68.72%",
             "total_locked_value": 0,
             "total_locked_usd_value":0,
