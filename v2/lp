@@ -19,7 +19,7 @@
           "staked_balance_of": 86,
           "max_withdraw": 3701072.8146712873,
           "type" : 1,
-          "swap_rate" : 0.0001,
+          "swap_rate" : 939,
           "balance_earned" : 12321313121,
           "lockupTimestamp" : 1646897495,
           "totalBalance" : 123213131121, 
