@@ -20,12 +20,12 @@
         "type": 1,
         "swap_rate": 939,
         "user_bnb_balance_earned_wei": 12321313121,
-        "user_bnb_balance_earned": 123213131121,
+        "user_bnb_balance_earned": 12,
         "lockup_timestamp": 1646897495,
         "total_balance_wei": 123213131121,
         "total_supply_wei": 131231312312123,
-        "total_balance_absolute": 123213131121,
-        "total_supply_absolute": 131231312312123,
+        "total_balance_absolute": 1232,
+        "total_supply_absolute": 1312,
         "contract": [
           "0xB895d60527906e068e5f53DAC3E7CE10a30b62cE"
         ],
@@ -1001,11 +1001,11 @@
         "type": 2,
         "swap_rate": 939,
         "user_bnb_balance_earned_wei": 12321313121,
-        "user_bnb_balance_earned": 123213131121,        
+        "user_bnb_balance_earned": 123,        
         "lockup_timestamp": 1646897495,
         "total_balance_wei": 123213131121,
-        "total_balance_absolute": 123213131121,
-        "total_supply_absolute": 131231312312123,
+        "total_balance_absolute": 123,
+        "total_supply_absolute": 131,
         "total_supply_wei": 131231312312123,
         "contract": [
           "0xeAA8784B40348b610F7384df928AFEDaaa8F5Fe4"
