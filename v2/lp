@@ -17,7 +17,7 @@
         "user_token_share": 3.99,
         "user_rbfr_balance": 3800,
         "user_staked_balance": 86,
-        "max_withdraw_wei": 3701072,
+        "max_withdraw_wei": 12000000000000000000,
         "type": 1,
         "swap_rate": 939,
         "user_token_balance_earned_wei": 12321313121,
