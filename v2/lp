@@ -7,7 +7,8 @@
         "apr": "143.61%",
         "asset":{
             "name": "BNB",
-            "img": "https://res.cloudinary.com/dgdjabqwr/image/upload/v1629971863/Buffer/bnb_bg_f1vmze.svg"
+            "img": "https://res.cloudinary.com/dgdjabqwr/image/upload/v1629971863/Buffer/bnb_bg_f1vmze.svg",
+            "balance":12000000000000000000
         },
         "name": "Buffer BNB LP Token",
         "utilization": "68.72%",
