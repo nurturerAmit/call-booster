@@ -26,7 +26,7 @@
   "abi": ["abi", "of", "the", "pool"],
   "type": 2,
   "IV": 234,
-  "decimals": 18
+  "decimals": 18,
   "details": [
     {
       "name": "Vault Strategy",
