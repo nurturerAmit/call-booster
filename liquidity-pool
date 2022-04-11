@@ -27,4 +27,43 @@
   "type": 2,
   "IV": 234,
   "decimals": 18
+  "details": [
+    {
+      "name": "Vault Strategy",
+      "points": [
+        "Airdrop campaign",
+        "Phase-1 Rewards",
+        "LeaderBoard announcement",
+        "Customise options Tetsnet release "
+      ]
+    },
+    {
+      "name": "Fee Structure",
+      "points": [
+        "0% asset management fee",
+        "Swap fee - Yes (0.1%)",
+        "100% of the deposit is added to the pool and 0.1% rBFR is sent to the admin - this gives the vault manager skin in the game without affecting the liquidity available to write option"
+      ]
+    },
+    {
+      "name": "Withdrawals",
+      "points": [
+        "Partnerships",
+        "Prediction market tesnet release",
+        "Token Launch - (Seed sale and IDO)",
+        "CMC and Coingecko listing",
+        "Mainnet Launch",
+        "$iBFR Staking"
+      ]
+    },
+    {
+      "name": "Risk",
+      "points": [
+        "On-chain Stock options",
+        "CEX listing",
+        "Options Strategy Builder",
+        "Multi cryptocurrency and token options"
+      ]
+    }
+  ]
 }
