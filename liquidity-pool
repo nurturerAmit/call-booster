@@ -1,0 +1,30 @@
+{
+  "asset": {
+    "img": "https://res.cloudinary.com/dgdjabqwr/image/upload/v1629971863/Buffer/bnb_bg_f1vmze.svg",
+    "name": "BNB",
+    "abi": null,
+    "balance": 0,
+    "decimals": 18,
+    "contract": "0xB895d60527906e068e5f53DAC3E7CE10a30b62cE"
+  },
+  "apy": "85.68%",
+  "strike_price": 85.0,
+  "time_of_expiry": 1234311,
+  "user": {
+    "position_absolute": 1617541,
+    "position_wei": 1.617541,
+    "xirr": "40%",
+    "deposited_wei": 3.2,
+    "deposited_absolute": 3234211,
+    "pending_withdrawls": 3
+  },
+  "name": "Buffer BNB pool",
+  "deposited": 1617541,
+  "max_capacity": 5000000,
+  "capacity_used": "30%",
+  "contract": "0xB895d60527906e068e5f53DAC3E7CE10a30b62cE",
+  "abi": ["abi", "of", "the", "pool"],
+  "type": 2,
+  "IV": 234,
+  "decimals": 18
+}
