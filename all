@@ -1,15 +1,27 @@
 [
-    {
-          "token": {
-              "name":"BTC",
-              "img": "https://app.buffer.finance/images/logo.svg",
-              "price":3432432
-          },
-          "strike":23213213,
-          "max_size": 2667482447382412300,
-          "break_even": 5234324234,
-          "expiry": 234123,
-          "lp" : "call_booster_contract.pool",
-          "total_fee":23213123123
-      }
-  ]
+  {
+    "asset": {
+      "img": "https://res.cloudinary.com/dgdjabqwr/image/upload/v1629971863/Buffer/bnb_bg_f1vmze.svg",
+      "name": "BNB",
+      "abi": null,
+      "balance": 0,
+      "decimals": 18,
+      "contract": "0xB895d60527906e068e5f53DAC3E7CE10a30b62cE"
+    },
+    "apy": "85.68%",
+    "strike_price": 85.0,
+    "time_of_expiry": 1234311,
+    "user": {
+      "position_absolute": 1617541,
+      "position_wei": 1617541,
+      "xirr": "40%"
+    },
+    "name": "Buffer BNB pool",
+    "deposited": 1617541,
+    "max_capacity": 5000000,
+    "capacity_used": "30%",
+    "contract": "0xB895d60527906e068e5f53DAC3E7CE10a30b62cE",
+    "type": 2,
+    "IV": 234
+  }
+]
