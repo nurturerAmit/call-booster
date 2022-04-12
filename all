@@ -13,15 +13,59 @@
     "time_of_expiry": 1234311,
     "user": {
       "position_absolute": 1617541,
-      "position_wei": 1617541,
-      "xirr": "40%"
+      "position_wei": 1.617541,
+      "xirr": "40%",
+      "deposited_wei": 3.2,
+      "deposited_absolute": 3234211,
+      "pending_withdrawls": 3
     },
     "name": "Buffer BNB pool",
     "deposited": 1617541,
     "max_capacity": 5000000,
     "capacity_used": "30%",
     "contract": "0xB895d60527906e068e5f53DAC3E7CE10a30b62cE",
+    "abi": ["abi", "of", "the", "pool"],
     "type": 2,
-    "IV": 234
+    "IV": 234,
+    "decimals": 18,
+    "details": [
+      {
+        "name": "Vault Strategy",
+        "points": [
+          "Airdrop campaign",
+          "Phase-1 Rewards",
+          "LeaderBoard announcement",
+          "Customise options Tetsnet release "
+        ]
+      },
+      {
+        "name": "Fee Structure",
+        "points": [
+          "0% asset management fee",
+          "Swap fee - Yes (0.1%)",
+          "100% of the deposit is added to the pool and 0.1% rBFR is sent to the admin - this gives the vault manager skin in the game without affecting the liquidity available to write option"
+        ]
+      },
+      {
+        "name": "Withdrawals",
+        "points": [
+          "Partnerships",
+          "Prediction market tesnet release",
+          "Token Launch - (Seed sale and IDO)",
+          "CMC and Coingecko listing",
+          "Mainnet Launch",
+          "$iBFR Staking"
+        ]
+      },
+      {
+        "name": "Risk",
+        "points": [
+          "On-chain Stock options",
+          "CEX listing",
+          "Options Strategy Builder",
+          "Multi cryptocurrency and token options"
+        ]
+      }
+    ]
   }
 ]
